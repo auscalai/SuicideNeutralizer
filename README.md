@@ -53,18 +53,15 @@ REQUESTS PAGE:
         consult date, can't book any day before today
         consult time, timeslot within the selected consultant's workhours
         add additional notes
-
     Admin: 
         make new requests
         assign users to consultants
         view all requests and all requests information, and member's contact number
         can edit all fields of requests
         approve, reject or delete request
-
     Consultants:
         view requests information requested to this account, and contact no of member
         approve or reject own incoming requests
-
     Members: 
         view requests information that this account sent out, and contact no of consultant
         make new requests
